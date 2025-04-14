@@ -1,0 +1,19 @@
+
+state={
+	id=150
+	name="STATE_150"
+	provinces={
+		82 454 1002 1369 1741 2084 2339 2364 3112 4111 4394 4565 4622 5601 5652 6194 7281 7588 8297 9048 10471 10492 10664 10832 11156 11644 12258 13913 13950 13968 14036 14112 14115 14129 14144 14177 14178 14210 
+	}
+	manpower=0
+	state_category = rural
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		victory_points = { 2339 25 }
+		victory_points = { 12258 5 }
+		victory_points = { 14144 6 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=128
+	name="STATE_128"
+	provinces={
+		576 897 990 1192 1266 1734 1884 2198 2540 2702 2902 3235 3641 3906 4427 4467 4612 4998 5147 5998 7067 7510 7789 7885 7998 8096 8131 8181 8365 8901 9346 9706 9780 10365 10632 10684 11690 13096 13102 13106 13143 13146 13170 13174 13193 13217 13253 13266 13297 13304 13314 13391 13396 
+	}
+	manpower=0
+	state_category = large_town
+	history = {
+		owner = KAN
+		add_core_of = KAN
+		victory_points = { 2702 40 }
+		victory_points = { 8181 19 }
+
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

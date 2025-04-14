@@ -1,0 +1,19 @@
+
+state={
+	id=8
+	name="Cidaris"
+	provinces={
+		511 606 793 1265 1506 3391 3908 4008 5080 6237 6753 6824 6918 7329 7396 8097 8405 8452 8568 10694 11206 12103 12116 12152 13860 13888 13909 13910 13956 13983 14002 14035 17488 17489 
+	}
+	manpower=0
+	state_category = large_town
+	history = {
+		owner = CID
+		add_core_of = CID
+		victory_points = { 4008 50 }
+		victory_points = { 7329 10 }
+		victory_points = { 13983 10 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

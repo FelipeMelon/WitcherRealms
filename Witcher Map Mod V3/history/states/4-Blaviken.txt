@@ -1,0 +1,17 @@
+
+state={
+	id=4
+	name="Blaviken"
+	provinces={
+		6745 8156 
+	}
+	manpower=0
+	state_category = large_town
+	history = {
+		owner = RED
+		add_core_of = RED
+		victory_points = { 8156 25 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=21
+	name="STATE_21"
+	provinces={
+		137 1459 2202 2256 3219 3392 4902 5073 6042 6519 6739 6906 6971 7706 7743 7954 7996 8317 8386 8391 8971 9019 10091 10440 11819 12357 12393 12419 12420 12421 12422 12423 12424 12475 12481 12501 12518 12541 12555 12590 12603 12629 12630 12637 
+	}
+	manpower=150000
+	state_category = pastoral
+	history = {
+		owner = KIP
+		add_core_of = KIP
+		victory_points { 7743 5 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

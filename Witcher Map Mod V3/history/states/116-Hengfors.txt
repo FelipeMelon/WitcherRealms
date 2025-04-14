@@ -1,0 +1,17 @@
+
+state={
+	id=116
+	name="STATE_116"
+	provinces={
+		722 1157 4165 4537 4603 5194 5622 7797 8565 10444 11279 11409 11529 11777 12132 12784 12830 12852 12875 
+	}
+	state_category = city
+	history = {
+		owner = HEN
+		add_core_of = HEN
+		victory_points = { 11529 50 }
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

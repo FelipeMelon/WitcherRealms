@@ -1,0 +1,18 @@
+
+state={
+	id=135
+	name="STATE_135"
+	provinces={
+		120 430 443 1426 2000 2125 2397 2483 3230 3573 4114 4432 4879 5149 5193 5621 5967 6136 6429 6511 6783 7783 8475 8533 8559 9208 9865 10202 10585 10952 11097 11127 11267 11370 11734 11880 13307 13344 13350 13369 13405 13456 13484 13485 13490 13502 13513 17561 
+	}
+	manpower=0
+	state_category = pastoral
+	history = {
+		owner = KAN
+		add_core_of = KAN
+		victory_points = { 6429 5 }
+		victory_points = { 11370 1 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

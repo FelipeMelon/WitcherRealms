@@ -1,0 +1,17 @@
+
+state={
+	id=32
+	name="STATE_32"
+	provinces={
+		380 1755 2955 3584 4933 5014 5144 6132 6448 6507 6538 6671 6730 7177 7288 7435 7551 8368 8375 8436 8607 8729 9043 9608 9752 9761 9927 10479 11635 12430 12431 12473 12487 12502 12556 12564 12586 12625 12685 12756 12773 12798 12826 12859 
+	}
+	manpower=0
+	state_category = enclave
+	history = {
+		owner = KAN
+		add_core_of = KAN
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	impassable = yes
+}

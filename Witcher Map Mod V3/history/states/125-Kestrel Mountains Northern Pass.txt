@@ -1,0 +1,17 @@
+
+state={
+	id=125
+	name="STATE_125"
+	provinces={
+		699 2250 4418 5396 6588 7481 9708 11611 13152 13173 13188 13205 13216 13278 
+	}
+	manpower=0
+	state_category = enclave
+	history = {
+		owner = RED
+		add_core_of = RED
+		victory_points = { }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

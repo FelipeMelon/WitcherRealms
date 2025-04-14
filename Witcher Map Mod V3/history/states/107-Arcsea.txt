@@ -1,0 +1,16 @@
+state={
+	id=107
+	name="STATE_107"
+	provinces={
+		1708 1971 2303 4635 6310 6953 7155 9483 10941 13007 
+	}
+	state_category = pastoral
+	history = {
+		owner = RED
+		add_core_of = RED
+		victory_points = { 4635 15 }
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

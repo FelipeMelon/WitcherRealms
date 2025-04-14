@@ -1,0 +1,16 @@
+
+state={
+	id=109
+	name="STATE_109"
+	provinces={
+		7292 12390 12931 17555 
+	}
+	state_category = enclave
+	history = {
+		owner = RED
+		add_core_of = RED
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

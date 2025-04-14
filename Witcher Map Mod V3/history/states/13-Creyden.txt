@@ -1,0 +1,18 @@
+
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		19 574 798 1896 3865 4149 4206 4328 4511 5775 6105 6631 7594 8694 9102 9267 9365 9390 10050 10231 11515 12802 12820 12858 12904 12913 12930 12935 12947 12987 
+	}
+	manpower=0
+	state_category = town
+	history = {
+		owner = HEN
+		add_core_of = HEN
+		victory_points = { 6105 19 }
+		victory_points = { 574 9 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

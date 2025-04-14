@@ -1,0 +1,19 @@
+
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		21 632 1812 1923 1999 2825 2984 3387 3492 3685 4000 4859 4914 5458 5977 6423 6571 6704 7252 7375 7695 8652 9847 10057 10194 10896 11059 11417 11488 11704 12371 14356 14438 14439 14470 14502 14506 14515 14541 14549 14568 
+	}
+	manpower=0
+	state_category = town
+	history = {
+		owner = SOD
+		add_core_of = SOD
+		victory_points = { 11417 30 }
+		victory_points = { 11059 1 }
+		victory_points = { 3387 5 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

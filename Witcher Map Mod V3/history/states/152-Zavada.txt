@@ -1,0 +1,18 @@
+
+state={
+	id=152
+	name="STATE_152"
+	provinces={
+		264 777 799 1396 2116 3278 3827 4047 5179 7790 14228 14229 14244 14263 14284 
+	}
+	manpower=0
+	state_category = rural
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		victory_points = { 799 17 }
+		victory_points = { 14244 5 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

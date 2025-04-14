@@ -1,0 +1,18 @@
+
+state={
+	id=157
+	name="STATE_157"
+	provinces={
+		769 2136 3725 3834 6321 9851 9992 11959 12377 13928 13949 13988 
+	}
+	state_category = town
+	history = {
+		owner = CID
+		add_core_of = CID
+		victory_points = { 12377 25 }
+		victory_points = { 3834 5 }
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

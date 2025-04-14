@@ -1,0 +1,18 @@
+
+state={
+	id=122
+	name="STATE_122"
+	provinces={
+		117 1105 1314 1623 2095 2134 2334 2453 2617 2780 3778 4742 5541 5827 5997 6400 7012 7088 7135 7158 7464 7984 9247 9556 9660 10469 10709 10758 11052 11193 11623 13277 13296 13303 13337 13355 13470 13500 13503 17479 17480 
+	}
+	manpower=0
+	state_category = town
+	history = {
+		owner = RED
+		add_core_of = RED
+		victory_points = { 7135 25 }
+		victory_points = { 13470 20 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=160
+	name="STATE_160"
+	provinces={
+		3677 5830 7173 7348 7942 
+	}
+	manpower=0
+	state_category = large_town
+	history = {
+		owner = VER
+		add_core_of = VER
+		victory_points = { 7942 40 }
+		
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=148
+	name="STATE_148"
+	provinces={
+		560 624 2070 2809 4005 4303 5057 5364 5633 6217 6987 8976 9171 10238 11576 12362 13795 13813 13836 13885 
+	}
+	manpower=0
+	state_category = large_town
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		victory_points = { 5633 50 }
+		victory_points { 11576 5 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

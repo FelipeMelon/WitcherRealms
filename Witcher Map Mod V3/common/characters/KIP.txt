@@ -1,0 +1,14 @@
+characters = {
+ 	KIP_Esterad_Thyssen = {
+		name =  Esterad_Thyssen
+		portraits = {
+			civilian = {
+				large = GFX_Esterad_Thyssen
+				}
+		}
+		country_leader = {
+			ideology = centrism
+			desc = MY_LEADER_DESCRIPTION
+		}
+	}	
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=137
+	name="STATE_137"
+	provinces={
+		199 1697 2433 8376 9286 10957 11058 11579 13674 13740 13755 
+	}
+	manpower=0
+	state_category = city
+	history = {
+		owner = AED
+		add_core_of = AED
+		victory_points = { 8376 30 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

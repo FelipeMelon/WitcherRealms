@@ -1,0 +1,17 @@
+
+state={
+	id=18
+	name="STATE_18"
+	provinces={
+		281 961 2056 2553 2623 2667 3316 3739 3999 5244 6066 7116 7433 8406 8492 8733 8946 9611 9710 10480 10603 10792 11060 11130 11391 12470 12480 12517 12615 
+	}
+	history = {
+		owner = KIP
+		add_core_of = KIP
+		victory_points = { 2056 19 }
+	}
+	manpower=150000
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

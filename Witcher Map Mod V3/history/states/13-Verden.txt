@@ -1,0 +1,20 @@
+
+state={
+	id=22
+	name="STATE_22"
+	provinces={
+		276 595 1563 1960 2793 3930 4453 5546 5858 6580 6883 7410 7741 7830 8046 8306 9128 9545 10082 10193 11087 11401 11955 12157 14225 14355 14411 14412 14450 14454 17492 17493 17494 
+	}
+	manpower=0
+	state_category = rural
+	history = {
+		owner = VER
+		add_core_of = VER
+		victory_points = { 4453 19 }
+		victory_points = { 8306 5 }
+		victory_points = { 276 5 }
+		
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

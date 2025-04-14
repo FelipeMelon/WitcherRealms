@@ -1,0 +1,17 @@
+
+state={
+	id=13
+	name="STATE_13"
+	provinces={
+		736 762 1572 2045 2381 3266 3464 3517 3756 3821 3933 5803 5918 6151 6394 6729 6836 6949 7052 7188 8035 9290 10134 10283 10656 11443 11600 11649 12141 12378 14455 14474 14479 14526 
+	}
+	manpower=0
+	state_category = town
+	history = {
+		owner = BRU
+		add_core_of = BRU
+		victory_points = { 3266 50 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

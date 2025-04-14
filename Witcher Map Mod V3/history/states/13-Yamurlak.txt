@@ -1,0 +1,17 @@
+
+state={
+	id=23
+	name="STATE_23"
+	provinces={
+		40 516 701 784 1842 1965 1994 2077 2170 2296 3296 3507 3973 4023 4043 4117 4210 4534 6278 6302 7620 8003 8007 8130 8546 9493 9726 9811 9946 10228 10604 10989 11680 11914 12932 13016 13020 13025 13030 13043 13047 13068 13071 13072 13085 13093 13098 13140 
+	}
+	state_category = rural
+	history = {
+		owner = RED
+		add_core_of = RED
+		victory_points = { 13085 15 }
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

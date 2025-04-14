@@ -1,0 +1,18 @@
+
+state={
+	id=113
+	name="STATE_113"
+	provinces={
+		764 1283 6280 6874 7444 10036 10522 12006 12221 12813 12825 12889 
+	}
+	manpower=750000
+	state_category = large_city
+	history = {
+		owner = KIP
+		add_core_of = KIP
+		victory_points = { 12221 70 }
+
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

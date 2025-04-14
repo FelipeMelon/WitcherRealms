@@ -1,0 +1,18 @@
+
+state={
+	id=141
+	name="STATE_141"
+	provinces={
+		211 2018 2347 2883 3067 3456 4596 5415 5899 6703 8878 11468 14488 14516 14543 14615 14642 
+	}
+	manpower=0
+	state_category = rural
+	history = {
+		owner = LIR
+		add_core_of = LIR
+		victory_points = { 4596 15 }
+		victory_points = { 211 5 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

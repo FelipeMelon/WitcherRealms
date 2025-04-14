@@ -1,0 +1,20 @@
+
+state={
+	id=7
+	name="Kerack"
+	provinces={
+		92 383 610 1307 2755 3046 3103 3308 3676 3866 4259 4917 5727 7084 7486 8647 8705 9259 10114 10854 11733 11752 11986 14029 14048 14055 14061 14090 14125 14143 14158 17491 
+	}
+	manpower=0
+	state_category = large_town
+	history = {
+		owner = KER
+		add_core_of = KER
+		victory_points = { 4259 20 }
+		victory_points = { 610 10 }
+		victory_points = { 14125 5 }
+		victory_points = { 10854 9 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=123
+	name="STATE_123"
+	provinces={
+		359 665 944 975 1334 1698 2112 2929 3420 3628 4009 4440 4883 5671 5807 5992 6114 6190 7016 7051 7102 7420 7485 7541 7562 7923 7961 8026 8291 8805 9328 9551 9792 10262 11012 13463 13479 13527 13562 13566 13592 13599 13620 13627 13658 13672 13683 13692 13693 13694 17481 17482 
+	}
+	manpower=0
+	state_category = city
+	history = {
+		owner = RED
+		add_core_of = RED
+		victory_points = { 13566 75 }
+		victory_points = { 7051 5 }
+		victory_points = { 9792 5 }
+		victory_points = { 5992 9 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

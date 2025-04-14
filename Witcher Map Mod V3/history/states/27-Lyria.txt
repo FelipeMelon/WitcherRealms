@@ -1,0 +1,18 @@
+
+state={
+	id=27
+	name="STATE_27"
+	provinces={
+		806 1673 2491 2650 2658 2839 2977 3655 5900 6228 6365 8477 8668 9794 11998 12027 14338 14360 14361 14371 14405 14431 14440 14483 17563 
+	}
+	manpower=0
+	state_category = town
+	history = {
+		owner = LIR
+		add_core_of = LIR
+		victory_points = { 14431 29 }
+		victory_points = { 11998 5 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

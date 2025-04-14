@@ -1,0 +1,11 @@
+
+state={
+	id=10
+	name="Yaruga"
+	provinces={
+		2023 5005 5157 5919 7077 9013 17564 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=117
+	name="STATE_117"
+	provinces={
+		1511 2345 2404 2630 7404 10046 10773 11634 12988 
+	}
+	state_category = rural
+	history = {
+		owner = HEN
+		add_core_of = HEN
+		victory_points = { 12988 10 }
+	}	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

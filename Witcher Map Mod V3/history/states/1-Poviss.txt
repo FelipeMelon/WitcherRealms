@@ -1,0 +1,17 @@
+
+state={
+	id=1
+	name="Poviss"
+	provinces={
+		916 973 2058 3206 3355 4431 4696 5296 5508 6209 6301 6336 6436 6811 7374 8693 9109 9127 10573 11124 12655 12657 12691 12750 12760 12783 12790 12801 12809 12819 12956 17475 17476 17478 
+	}
+	manpower=300000
+	state_category = rural
+	history = {
+		owner = KIP
+		add_core_of = KIP
+		victory_points = { 12691 30 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

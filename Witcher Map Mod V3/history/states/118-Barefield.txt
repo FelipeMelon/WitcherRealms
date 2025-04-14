@@ -1,0 +1,18 @@
+
+state={
+	id=118
+	name="STATE_118"
+	provinces={
+		6970 12163 12936 
+	}
+	manpower=0
+	state_category = pastoral
+	history = {
+		owner = HEN
+		add_core_of = HEN
+		victory_points = { 6970 5 }
+		victory_points = { 12936 1 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

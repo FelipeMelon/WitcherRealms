@@ -1,0 +1,18 @@
+
+state={
+	id=126
+	name="STATE_126"
+	provinces={
+		172 911 1317 1549 1776 2067 2452 2607 2638 2656 3059 3093 3768 3856 4443 5779 6609 6848 7373 7595 9887 10608 10676 10923 11390 11578 11626 13544 13548 13593 13600 13624 13628 13640 13673 13678 13727 13732 13750 
+	}
+	manpower=0
+	state_category = rural
+	history = {
+		owner = RED
+		add_core_of = RED
+		victory_points = { 13640 11 }
+		victory_points = { 172 5 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

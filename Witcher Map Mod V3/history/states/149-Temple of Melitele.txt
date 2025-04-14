@@ -1,0 +1,18 @@
+
+state={
+	id=149
+	name="STATE_149"
+	provinces={
+		3095 3257 5008 5734 6058 9191 10820 11007 13824 13984 14022 14051 
+	}
+	manpower=0
+	state_category = pastoral
+	history = {
+		owner = TEM
+		add_core_of = TEM
+		victory_points = { 14051 2 }
+		
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

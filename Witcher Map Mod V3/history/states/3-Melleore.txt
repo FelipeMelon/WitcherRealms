@@ -1,0 +1,18 @@
+
+state={
+	id=3
+	name="Melleore"
+	provinces={
+		88 335 825 1174 1341 1382 2086 2369 2556 2884 3156 3344 3375 3401 3555 3601 3670 4158 5426 5828 6450 7211 7322 7434 7598 8608 8695 8734 8755 8844 8864 9108 9440 9543 9561 10060 10116 10226 10449 11494 11822 12381 12428 12468 12476 12504 12511 12606 12635 12638 12660 12697 12706 12729 
+	}
+	state_category = rural
+	history = {
+		owner = HEN
+		add_core_of = HEN
+		victory_points = { 9561 19 }
+		victory_points = { 10226 5 }
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

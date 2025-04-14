@@ -1,0 +1,17 @@
+
+state={
+	id=143
+	name="STATE_143"
+	provinces={
+		730 1981 3097 3264 4381 4423 4600 5325 5350 5419 6022 6531 6649 6774 7626 7936 9421 10104 11275 14162 14205 14264 14265 
+	}
+	manpower=0
+	state_category = city
+	history = {
+		owner = MAH
+		add_core_of = MAH
+		victory_points = { 5325 50 }
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
