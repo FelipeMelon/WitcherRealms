@@ -1,0 +1,1 @@
+#Leave empty to skip the bookmark screen and jump directly to country selection which seems a more preferable functionality for the current setup

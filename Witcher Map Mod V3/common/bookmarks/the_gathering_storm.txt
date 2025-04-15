@@ -8,7 +8,7 @@ bookmarks = {
 		default = yes
 
 		"TEM" = {
-			history = "FRA_GATHERING_STORM_DESC"
+			history = "TEM_GATHERING_STORM_DESC"
 			ideology = neutrality
 			ideas = {
 				
@@ -19,7 +19,7 @@ bookmarks = {
 		}
 
 		"RED" = {
-			history = "FRA_GATHERING_STORM_DESC"
+			history = "RED_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 			
