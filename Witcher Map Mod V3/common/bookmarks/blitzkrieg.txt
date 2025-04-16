@@ -1,1 +1,72 @@
-#Leave empty to skip the bookmark screen and jump directly to country selection which seems a more preferable functionality for the current setup
+bookmarks = {
+    ### DONT DELETE THIS, ALSO EDIT the_gathering_storm.txt ###
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1264.1.1.1
+		picture = "GFX_select_date_1936"
+		default_country = "TEM"
+		default = yes
+
+		"TEM" = {
+			history = "TEM_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"RED" = {
+			history = "RED_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			
+			}
+			focuses = {
+				
+			}
+		}
+
+		"SOD" = {
+			history = "SOD_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"BRU" = {
+			history = "BRU_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"MAH" = {
+			history = "MAH_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+		
+		#Don't remove this, it's needed for the bookmark to work
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

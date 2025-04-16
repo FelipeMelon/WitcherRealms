@@ -1,0 +1,14 @@
+characters = {
+ 	TEM_Foltest = {
+		name =  TEM_Foltest
+		portraits = {
+			civilian = {  large = "gfx/leaders/TEM/Portrait_TEM_Foltest.dds" }
+		}
+		country_leader = {
+			desc = "POLITICS_FOLTEST_DESC"
+			ideology = centrism
+			traits = { king_foltest }
+			expire = "1999.1.1.1"
+		}
+	}	
+}

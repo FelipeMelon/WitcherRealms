@@ -1,0 +1,14 @@
+characters = {
+ 	SOD_Ekkehard = {
+		name = SOD_Ekkehard
+		portraits = {
+			civilian = {  large = "gfx/leaders/SOD/Portrait_SOD_Ekkehard.dds" }
+		}
+		country_leader = {
+			desc = "POLITICS_EKKEHARD_DESC"
+			ideology = conservatism
+			traits = { prince_ekkehard }
+			expire = "1999.1.1.1"
+		}
+	}	
+}

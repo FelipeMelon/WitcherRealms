@@ -1,30 +1,38 @@
+
 capital = 145
-puppet = BRU
-puppet = SOD
-puppet = MAH
+
+### Characters ###
+recruit_character = TEM_Foltest
+
+### General ###
 set_research_slots = 3
+set_major = yes
+
+### Starting tech ###
+set_technology = {
+	infantry_weapons = 1
+}
+
+### Ideas ###
+add_ideas = {
+	Catholic
+	titul3
+	tip20
+	techgroup4
+	law_money2
+	free_trade
+	centr4
+	pop_laws3
+	poshliny2
+}
+
+### Variables ###
 set_variable = { buy_cost = 100 }
 set_variable = { nedovol_value = 0 }
 set_variable = { buy_cost_arke = 200 }
 set_variable = { buy_cost_porox = 200 }
 set_variable = { buy_cost_spear = 200 }
 set_variable = { product_masters_value = 250 }
-set_major = yes
-# Starting tech
-set_technology = {
-	infantry_weapons = 1
-}
-add_ideas = {
-Catholic
-titul3
-tip20
-techgroup4
-law_money2
-free_trade
-centr4
-pop_laws3
-poshliny2
-}
 set_variable = { adm_limit = 52 }
 set_variable = { soslovia_dvor = 80 } #дворяне
 set_variable = { soslovia_duh = 50 } #духовенство
@@ -79,28 +87,31 @@ set_variable = { numnasled_value = 1 }
 	}
 }
 
-
+### Politics ###
 set_politics = {
 	ruling_party = neutrality
 	last_election = "1238.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
-
 set_popularities = {
 	democratic = 0
 	fascism = 0
 	communism = 0
 	neutrality = 100
 }
+if = {
+	limit = { has_dlc = "Together for Victory" }
+	set_autonomy = { target = BRU autonomy_state = autonomy_wtt_imperial_subject }
+	set_autonomy = { target = SOD autonomy_state = autonomy_wtt_imperial_subject }
+	set_autonomy = { target = MAH autonomy_state = autonomy_wtt_imperial_subject }
 
-create_country_leader = {
-	name = "Foltest"
-	desc = "foltest_desc"
-	picture = "Foltest.dds"
-	ideology = despotism
-	traits = {
-		#
+	else = {
+		puppet = BRU
+		puppet = SOD
+		puppet = MAH
 	}
 }
+
+
 

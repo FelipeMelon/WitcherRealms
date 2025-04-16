@@ -1,0 +1,32 @@
+leader_traits = {
+	
+	king_foltest = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	king_venzlav = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	elder_brouver_hoog = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	prince_ekkehard = {
+		random = no
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

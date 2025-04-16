@@ -1,4 +1,5 @@
 bookmarks = {
+    ### DONT DELETE THIS, ALSO EDIT blitzkrieg.txt ###
 	bookmark = {
 		name = "GATHERING_STORM_NAME"
 		desc = "GATHERING_STORM_DESC"
@@ -29,6 +30,40 @@ bookmarks = {
 			}
 		}
 
+		"SOD" = {
+			history = "SOD_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"BRU" = {
+			history = "BRU_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"MAH" = {
+			history = "MAH_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		#Don't remove this, it's needed for the bookmark to work
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }

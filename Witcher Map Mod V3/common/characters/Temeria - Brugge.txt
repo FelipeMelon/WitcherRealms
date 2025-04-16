@@ -1,0 +1,15 @@
+characters = {
+ 	BRU_Venzlav = {
+		name = BRU_Venzlav
+		portraits = {
+			civilian = {  large = "gfx/leaders/BRU/Portrait_BRU_Venzlav.dds" }
+		}
+		country_leader = {
+			desc = "POLITICS_VENZLAV_DESC"
+			ideology = liberalism
+			traits = { king_venzlav }
+			expire = "1999.1.1.1"
+		}
+	}	
+}
+

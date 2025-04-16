@@ -1,0 +1,14 @@
+characters = {
+ 	MAH_Brouver_Hoog = {
+		name = MAH_Brouver_Hoog
+		portraits = {
+			civilian = {  large = "gfx/leaders/MAH/Portrait_MAH_Brouver_Hoog.dds" }
+		}
+		country_leader = {
+			desc = "POLITICS_BROUVER_HOOG_DESC"
+			ideology = socialism
+			traits = { elder_brouver_hoog }
+			expire = "1999.1.1.1"
+		}
+	}	
+}

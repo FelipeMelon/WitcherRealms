@@ -1,5 +1,8 @@
 capital = 143
 
+### Characters ###
+recruit_character = MAH_Brouver_Hoog
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -65,15 +68,5 @@ set_popularities = {
 	fascism = 0
 	communism = 0
 	neutrality = 0
-}
-
-create_country_leader = {
-	name = "Brouver Hoog"
-	desc = "brouver_desc"
-	picture = "brouver.dds"
-	ideology = socialism
-	traits = {
-		#
-	}
 }
 
